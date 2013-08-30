@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Search for vehicles"
+description: ""
+category: Vehicle management
+tags: []
+---
+{% include JB/setup %}
+If we want Details of a particular vehicle from your fleet, we use **Search** option from the **Vehicles** menu<br/>
+![Purchase Details](/assets/images/tb/search_01.png)  
+<br/>
+Select the vehicle, Click on **Purchase Details** from the left tab.  
+Click on **ADD** to add the details.<br/>  
+![Purchase Details](/assets/images/tb/search_02.png)  
+<br/>  
+Fill in the appropriate data. **Notes** are additional details regarding the purchase of the vehicle.
+![Purchase Details](/assets/images/tb/search_03.png)  
+<br/> If the vehicle is taken on **Loan**, select **YES** then input loan details.
+![Purchase Details](/assets/images/tb/search_04.png)  
+ <br/>
+  <br/> **Save** allows you to save the details.
+  <br/> 
+<br/> *Particulars marked with \* are compulsory*
