@@ -6,24 +6,22 @@ category: Vehicle management
 tags: []
 ---
 {% include JB/setup %}
-It is very easy to add a vehicle in **FleetNext**. First, select **Vehicles** from the **Dashboard.**  To add a vehicle, click on **+ Add Vehicle**.
 
-<br/>
 ![ADD VEHICLE](/assets/images/tb/Vehicle_1.png)  
-<br/>
+
+To add a vehicle, select **Vehicles** from the main menu.  Next, click on **Add vehicle** button.
+
 ![DESCRIBE VEHICLE 1](/assets/images/tb/AddVeh_1.png)  
  
-Some of the important fields are:
-  
-* **VEHICLE id**  is any id to distinctly identify your vehicle  
-* **VIN Number** is the vehicle identification number. It is given by the government.  
-* **MODEL** Indicates **make** And **model number** of the vehicle you are adding. 
-* **BASE/BRANCH** is the office to which the vehicle is assigned.
-* **FleetNext** allows you to track the mileage of the vehicle in multiple units - km and mi.
- <br/>
+Some important fields are:  
+* **Vehicle id**  is any identifier (upto 20 characters) used to uniquely identify a vehicle in the fleet. It can be any arbitrary code used internally in an organization or even license plate number.
+* **Vehicle identification number** is the VIN number unique code including a serial number, used by the automotive industry to identify individual motor vehicles or equipments.
+* **Model** Indicates the vehicle make (manufacturer) and model. You can customize the list using the *Customize vehicle models* link. 
+* **Base location/branch** is the office or branch to which a vehicle is assigned. You can customize the list using the *Customize locations* link.
+* **Meter reading** allows you to track the mileage of the vehicle in imperial and metric units (km and mi).
+* **Type of vehicle** indicates if the vehicle is a car, truck, tanker, trailer,  bus, tempo, moped and so on.
 
 ![DESCRIBE VEHICLE 2](/assets/images/tb/AddVeh_2.png)
   
-**Save And Add** allows you to add additional vehicles.
-  
-*Particulars marked with \* are compulsory*
+Use the **Save And add another** button to save this vehicle and add another vehicle.
+Fields marked with \* are compulsory.
