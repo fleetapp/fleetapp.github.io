@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "e-mail reminders"
+title: "Email reminders"
 description: ""
 category: Account Settings
 tags: []
 ---
 {% include JB/setup %}
-A user can be notifed about the documents' expiry and renewal dates via e-mail through **E-mail Reminders**
+A user can be notifed about the documents' expiry and renewal dates via e-mail through **Email Reminders**
 <br/>  
 
-Select **Settings**, Click on **Account Settings** and from the left tab choose **Email reminders**<br/>  
+Select **Settings**, Click on **Account settings** and from the left tab choose **Email reminders**<br/>  
 ![Go To Account Settings](/assets/images/tb/DelUser_01.png)<br/>  
 
 * **Vehicle document renewals reminder**  
@@ -29,3 +29,4 @@ You can **Enable** or **Disable** them.
 You can edit it as to the frequency of getting the reminders- daily, weekly, monthly, etc.<br/>  
 
 You get a reminder mail like this
+![Reminder Settings](/assets/images/tb/email_02.png)<br/>  
