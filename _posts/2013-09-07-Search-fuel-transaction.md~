@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Search fuel transactions"
+description: ""
+category: Fuel transactions
+tags: []
+---
+{% include JB/setup %}
+Select **Manage** from the menu and click on **fuel transaction**  
+![Selecting 'Fuel transactions'](/assets/images/tb/fueltra_01.png)  
+Click on **Search**. Fill in with appropriate details.
+![Giving search details](/assets/images/tb/fuelsearch_01.png)  
+We can filter the search by choosing the **Purchased date** (range) **Vehicle**, **Vendor** and **Mode of payment**.  
+
