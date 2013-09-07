@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Customize the list of documents to track"
+description: ""
+category: Vehicle documents
+tags: []
+---
+{% include JB/setup %}
+Select **Manage** from the menu, select **Vehicle document renewals **
+![Meter Reading](/assets/images/tb/adddoc_01.png)  
+
+
+
