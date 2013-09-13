@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Tyre Repairing"
+description: ""
+category: Tyres
+tags: []
+---
+{% include JB/setup %}
+To increase the life of tyres, we can remold or rethread them. To add an entry of such an event, following are the steps.
+Select **Manage** from the menu and click on **Tyres**  
+![Selecting 'tyres'](/assets/images/tb/tyres.png)  
+From the left tab, choose **Remold history**.  
+Click on **+Add**  
+Fill in the appropriate details.  
+![Add remold history](/assets/images/tb/tyrerep_01.png)  
+**Save**.
+
