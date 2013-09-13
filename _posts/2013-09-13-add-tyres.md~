@@ -10,7 +10,7 @@ tags: []
 Select **Manage** from the menu and click on **Tyres**  
 ![Selecting 'tyres'](/assets/images/tb/tyres.png)    
 
-To add a vehicle, click on **Add a vehicle** from the top-right corner:  
+To add a vehicle, click on **Add tyre** from the top-right corner:  
 ![Add a vehicle.](/assets/images/tb/addtyre_01.png)  
 
 Fill in the details.  
@@ -34,5 +34,10 @@ Fill in the details.
 * **Notes** : Anything related to this tyre.
 
 We can end it by clicking on **Save**.
+
+The tyre just added is a **Spare**.It can be **fitted on** a vehicle or **scrapped off**.  
+To add a tyre on a vehicle, first you need to **add a tyre** and then **fit it** on a vehicle.  
+
+
 
 

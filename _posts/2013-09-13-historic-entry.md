@@ -13,7 +13,7 @@ Select the tyre about which you want to add details. This tyre can be **Scrapped
 Go to vehicle history, on the right you see - **+Add (backdated entry)**, select it.  
 ![Backdated- entry](/assets/images/tb/hist_01.png)  
 You need to provide both - the **fitting details** and the **unfitting details**, the **vehicle details** and the **odometer readings**.  
-  
+  ![Backdated- entry details](/assets/images/tb/hist_02.png)  
 
 
 

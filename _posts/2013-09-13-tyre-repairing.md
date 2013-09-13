@@ -11,7 +11,8 @@ Select **Manage** from the menu and click on **Tyres**
 ![Selecting 'tyres'](/assets/images/tb/tyres.png)  
 From the left tab, choose **Remold history**.  
 Click on **+Add**  
-Fill in the appropriate details.  
 ![Add remold history](/assets/images/tb/tyrerep_01.png)  
+Fill in the appropriate details.  
+![Add remold history](/assets/images/tb/tyrerep_02.png)  
 **Save**.
 
