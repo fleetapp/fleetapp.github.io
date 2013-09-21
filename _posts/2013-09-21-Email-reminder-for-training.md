@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Email reminder for driver training"
+description: ""
+category: Drivers
+tags: []
+---
+{% include JB/setup %}
+If we have given the dates of the next training while adding training records, we can activate email reminders for the same.  
+For that we go to **Settings**, select **Account settings** and from the left tab, select **Email reminders**   
+![Selecting 'Email reminders'](/assets/images/tb/traemail_01.png)  
+We simply click on **Enable** and fill in the details.  
+![Details for the next training](/assets/images/tb/traemail_02.png)  
+Following are the compulsary fields:
+* **User(s)**: We have to specify who all should get the reminders.  
+* **Start date**: The date of the training.
+* **Frequency**: We need to specify at how many intervals do we undergo the training. 
+* **Training due in**: We need to specify the number of days for the next training.

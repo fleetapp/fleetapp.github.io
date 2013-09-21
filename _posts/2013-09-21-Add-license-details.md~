@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Add driver license records"
+description: ""
+category: Drivers
+tags: []
+---
+{% include JB/setup %}
+We can keep a track of all the drivers of the fleet.  
+Select **Manage** from the menu and click on **Drivers.**  
+![Selecting 'Drivers'](/assets/images/tb/driv_01.png)  
+If a driver with an expired license gets a new one, here's the procedure to add the new license.  
+Select the driver with an **Expired license.**  
+![Add license](/assets/images/tb/addlic_01.png)
+On the new page, select **Driver licenses** from the left tab.  
+Select **+Add license**.  
+![Add license](/assets/images/tb/addlic_02.png)  
+Fill in the data:
+* **License number**: It is a compulsary field.
+* **Start date**: The date of issuing. It also is a compulsary field.
+* **End date**: The expiry date. It is also a compulsary field.
+* **Issuing authority**: The office which issued the license.(*optional*)  
+![License details](/assets/images/tb/addlic_03.png)
+
+
+

@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Add driver training records"
+description: ""
+category: Drivers
+tags: []
+---
+{% include JB/setup %}
+We can keep a track of all the drivers of the fleet and the traing they have undergone.  
+Select **Manage** from the menu and click on **Drivers.**  
+![Selecting 'Drivers'](/assets/images/tb/driv_01.png)  
+Select the particular driver whose training records you want to see or upgrade. From the left tab, select **Driver training**.  
+![Driver training](/assets/images/tb/adddrivrec_01.png)  
+From the tools, select **Add**  
+![Driver training](/assets/images/tb/adddrivrec_02.png)  
+Put in the details. Driver training type and date are compulsary. Next training on collumn helps us to get a reminder for the same.  
+![Driver training](/assets/images/tb/adddrivrec_03.png)  
+
