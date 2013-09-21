@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Log services"
+description: ""
+category: Services
+tags: []
+---
+{% include JB/setup %}
+Add a service when vehicle maintenance and repair work is undertaken.  
+Store workorder details such as tasks (labor) involved, parts consumed, service costs, meter reading etc.  
+Upload related paperwork such as workorder approval, invoice etc.  
+Go to **Vehicles**, select the *particular vehicle* and from the left tab, choose **Service log**.  
+From the top-right corner, select **Add service**
+!['Vehicles'-select vehicle-'Service log'](/assets/images/tb/log_01.png)  
+* **Completed**: Whether the service has been complete or not.
+* **Service date**: The date at which the car was serviced.
+* **Meter Reading**: The odometer reading when the car was given for servicing.
+* **Total cost**: The cost including both labour cost and parts' cost. 
+![Selecting 'Email reminders'](/assets/images/tb/log_02.png)  
+The service details can be given on time-basis :
+* ![Selecting 'Email reminders'](/assets/images/tb/log_03.png)  
+or it can be given on service-basis :
+* ![Selecting 'Email reminders'](/assets/images/tb/log_04.png)  
+By clicking on the bottom link- *Customize service task*, we can manage the available services. We can **Edit** or **Delete** them.  
+![Selecting 'Email reminders'](/assets/images/tb/log_05.png)  
+New and different services can be added.
+![Selecting 'Email reminders'](/assets/images/tb/log_06.png)  
+  
