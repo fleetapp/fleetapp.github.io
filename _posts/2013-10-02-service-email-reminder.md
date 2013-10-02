@@ -18,7 +18,10 @@ Fill in the details
 * **Vehicle**: The reminder should be sent for which vehicle(s). For all vehicles, we should leave it blank .
 * **Service task**: The reminder should be sent for which service(s). For all services, we should leave it blank .
 * **Soon due in(by time)**: Before how many days of the service should it turn to **Soon due**.
-* **Soon due in(by meter reading)**:  Before how many kms of the service should it turn to **Soon due**.
+* **Soon due in(by meter reading)**:  Before how many kms of the service should it turn to **Soon due**.  
+Here is a demo of the email that is sent:  
+![service reminder details](/assets/images/tb/email_02.png)  
+
   
 
 

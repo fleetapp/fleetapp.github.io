@@ -14,8 +14,8 @@ Setup service reminders both by time (e.g. every 365 days) and by meter reading 
 Select your vehicle, from the left tab go to **Service reminders**, click on **Add service reminder**.  
 ![Add service reminder](/assets/images/tb/servrem_01.png)  
 
-The service can by scheduled by **date** and/or by the **odometer reading**.  
-Fleetnext will check the latest odometer reading and remind you of the due or soon due services.  
+The service can by scheduled by **date** and/or by the **odometer reading**, whichever comes first.  
+Fleetnext will check the latest odometer reading and your previous servicing dates and will remind you of the due or soon due services.  
 ![Fill in the details](/assets/images/tb/servrem_02.png)  
 * **Service task**: From the list of services, we have to choose the one for which we want the reminder. *Manage service tasks*: if we want to add/or remove service(s), we can do so by this option.
 * **Track reminder by time**: If want fleetnext to track the service by time, we choose this.
@@ -29,6 +29,7 @@ Fleetnext will check the latest odometer reading and remind you of the due or so
 * If the service is scheduled any time in the future over 30 days, it has no label.  
 ![service reminder status](/assets/images/tb/servrem_03.png)  
 
+**Manual Scheduling**  
 If a new service is to be added(without any previous record), the next service has to be scheduled manually.  
 We check **Yes** besides the **Manually set next service reminder** option, add the next service date and odometer reading.  
 ![manual schedule](/assets/images/tb/servrem_04.png)  
