@@ -1,0 +1,19 @@
+---
+layout: post
+title: "copy service reminders"
+description: ""
+category: Services
+tags: []
+---
+{% include JB/setup %}
+When a new vehicle is added, there is no service scehdule of its own.  
+We can either add each service manually or we can import all the services from another vehicle.  
+For that, we choose the new vehicle, click on **Service reminders** from the left tab.  
+We then choose **Copy service reminders**.  
+![Add service reminder](/assets/images/tb/copyrem_01.png)  
+The following dialog-box opens. We choose the vehicle whose service schedule we want to import and click on **Copy**.  
+If the vehicle has some services of its own and we want to take them off, we check the box - '**Delete ALL existing service reminders (if any)**'  
+![Add service reminder](/assets/images/tb/copyrem_01.png)  
+
+
+
